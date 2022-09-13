@@ -1,0 +1,81 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.ctr {
+    text-align: center;
+}
+
+.tengah {
+    display: flex;
+    justify-content: center;
+}
+
+.wajah {
+    border-radius: 50%;
+    margin-top: 63px;
+}
+
+.nama {
+    font-weight: 700;
+    text-shadow: 0px 6px 6px rgba(0, 0, 0, 0.25);
+    font-size: 40px;
+    margin-bottom: 16px;
+}
+
+.info {
+    font-weight: 400;
+    font-size: 25px;
+    margin-top: 0;
+}
+
+hr {
+    width: 90%;
+    color: #9d9d9d;
+    border-radius: 5px;
+}
+
+.overview {
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.about {
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.febe {
+    margin-top: 50px;
+}
+
+.kanan {
+    width: 445px;
+    height: 258px;
+    border: 1px solid #9D9D9D;
+    border-radius: 35px;
+    margin-left: 230px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+.kerja {
+    font-weight: 600;
+    font-size: 28px;
+    margin: 28px 0 10px 25px;
+}
+
+/* .kanan ul li {
+    font-weight: 600;
+    font-size: 28px;
+} */
+
+.kiri {
+    width: 445px;
+    height: 258px;
+    border: 1px solid #9D9D9D;
+    border-radius: 35px;
+    margin-right: 230px;
+    margin-bottom: 50px;
+    float: right;
+}
